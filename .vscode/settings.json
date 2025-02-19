@@ -1,6 +1,6 @@
 {
     "objectscript.conn": {
-        "server": "healthconnect",
+        "server": "piris",
         "ns": "PIRIS",
         "active": true
     }
